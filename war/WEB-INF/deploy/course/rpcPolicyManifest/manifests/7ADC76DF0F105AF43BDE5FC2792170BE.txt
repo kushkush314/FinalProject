@@ -1,0 +1,2 @@
+serviceClass: com.project.client.Authentication
+path: CC21A886077FEB957E5BCEF250B5E079.gwt.rpc
